@@ -1,4 +1,4 @@
-# LOGO AT&T
+# AT&T
 Description de l'entreprise 📇
 AT&T Inc. est une multinationale américaine de télécommunications dont le siège social est situé à la Whitacre Tower, dans le centre-ville de Dallas, au Texas. Première entreprise de télécommunications au monde en termes de chiffre d'affaires, elle est également le troisième fournisseur de services de téléphonie mobile aux États-Unis. En 2022, AT&T occupait la 13e place du classement Fortune 500 des plus grandes entreprises américaines, avec un chiffre d'affaires de 168,8 milliards de dollars ! 😮
 
@@ -28,4 +28,4 @@ Livrable 📬
 Pour mener à bien ce projet, votre équipe doit :
 
 Écrivez un bloc-notes qui exécute le prétraitement et entraîne un ou plusieurs modèles d'apprentissage en profondeur afin de prédire la nature spam ou ham du SMS
-Indiquer clairement la performance réalisée
+Indiquer clairement la performance réalisée.
